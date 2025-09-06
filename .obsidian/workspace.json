@@ -11,10 +11,14 @@
             "id": "8d6a8f21ff8ee9b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -136,25 +142,70 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
-            "id": "ad70642ef59d8abc",
+            "id": "a068f4890f852082",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8aa92ac8f8db",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 17,
+                    "month": 2,
+                    "year": 1322
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 3,
+                    "month": 2,
+                    "year": 1322
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_b85bf89b29f8"
+                },
+                "id": "ID_d81a79e858cb",
+                "child": "ID_ebaad898d9db"
+              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "b33bdc6c477155a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ac8b1fa46f756c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8aa92ac8f8db",
+                "id": "ID_ebaad898d9db",
+                "parent": "ID_d81a79e858cb"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "754368c8f4403281",
+  "active": "a068f4890f852082",
   "lastOpenFiles": [
+    "Lironia.wonderdraft_map",
+    "Dwarvic.json",
     "United Ruso Republic/placeholder.md",
     "United Ruso Republic",
     "Lironia/Valmaie/placeholder.md",
@@ -196,7 +249,6 @@
     "Lironia/Castavejo/placeholder.md",
     "Lironia/Castavejo",
     "Lironia/Al-Katar/placeholder.md",
-    "Lironia/Al-Katar",
     "Lironia/4th Great war/placeholder.md"
   ]
 }
