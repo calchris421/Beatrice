@@ -1,10 +1,527 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Dwarvic",
+      "description": "",
+      "id": "ID_f958694959c8",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 4,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Mondas",
+            "id": "ID_69fb797a2a9b"
+          },
+          {
+            "type": "day",
+            "name": "Tirdas",
+            "id": "ID_0bfa7a598ad9"
+          },
+          {
+            "type": "day",
+            "name": "Middas",
+            "id": "ID_7a487bcbfbd8"
+          },
+          {
+            "type": "day",
+            "name": "Turndas",
+            "id": "ID_cb4bf8ebc88b"
+          },
+          {
+            "type": "day",
+            "name": "Frodas",
+            "id": "ID_b88adaa8091b"
+          },
+          {
+            "type": "day",
+            "name": "Lorddas",
+            "id": "ID_cac878b87838"
+          },
+          {
+            "type": "day",
+            "name": "Sondas",
+            "id": "ID_c9ab883bdb5b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Early Star",
+            "length": 30,
+            "id": "ID_ba6a7958f838",
+            "interval": 1,
+            "offset": 2
+          },
+          {
+            "type": "month",
+            "name": "Mornings Dew",
+            "length": 31,
+            "id": "ID_48eb3a6879f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "First Seed",
+            "length": 28,
+            "id": "ID_ab79d9b84ae8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Elan's Hand",
+            "length": 30,
+            "id": "ID_584adbfae989",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Second Seed",
+            "length": 30,
+            "id": "ID_2ad9da991a88",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sol's Peak",
+            "length": 31,
+            "id": "ID_596b58d82a29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Last Seed",
+            "length": 30,
+            "id": "ID_baf99abb78ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Resting Moon",
+            "length": 32,
+            "id": "ID_380aaa2a292b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hearthfire",
+            "length": 30,
+            "id": "ID_cb79a928fa79",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Frost Fall",
+            "length": 31,
+            "id": "ID_db0b89897b59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sun's Set",
+            "length": 30,
+            "id": "ID_39b969db9b4a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dusk's Rise",
+            "length": 31,
+            "id": "ID_29da9ada48ab",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false,
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_cbb87b4abbbb",
+            "name": "Frost",
+            "type": "Periodic",
+            "color": "#345f8d",
+            "duration": 91,
+            "peak": 50,
+            "weatherOffset": 45,
+            "weatherPeak": 5,
+            "kind": "Winter"
+          },
+          {
+            "id": "ID_7838cb0859da",
+            "name": "Seed",
+            "type": "Periodic",
+            "color": "#57dd46",
+            "duration": 89,
+            "peak": 40,
+            "weatherOffset": 34,
+            "weatherPeak": 6,
+            "kind": "Spring"
+          },
+          {
+            "id": "ID_483aca98989a",
+            "name": "Sun",
+            "type": "Periodic",
+            "color": "#eaee1b",
+            "duration": 91,
+            "peak": 50,
+            "weatherOffset": 42,
+            "weatherPeak": 8,
+            "kind": "Summer"
+          },
+          {
+            "id": "ID_58d959fbfb39",
+            "name": "Dusk",
+            "type": "Periodic",
+            "color": "#8d73c6",
+            "duration": 93,
+            "peak": 55,
+            "weatherOffset": 50,
+            "weatherPeak": 5,
+            "kind": "Autumn"
+          }
+        ],
+        "offset": -61,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 898276230,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Isenholm",
+            "id": "ID_b85bf89b29f8",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Valmaie",
+            "id": "ID_593bf8a9daba",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Castavejo",
+            "id": "ID_090a4a28789a",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Drastvan",
+            "id": "ID_98583bebeb49",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Lysund",
+            "id": "ID_7969c9d89938",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Frosdal",
+            "id": "ID_bb2899084bc8",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              }
+            }
+          },
+          {
+            "name": "Pracoviche",
+            "id": "ID_7b3a89aa390b",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Valienta",
+            "id": "ID_d8f8d9593a7a",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Furstalen",
+            "id": "ID_a898c8a87938",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          },
+          {
+            "name": "Al-Katar",
+            "id": "ID_c9484b19c82a",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Svitun",
+            "id": "ID_1bb8c82b599a",
+            "seasons": {
+              "ID_cbb87b4abbbb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_7838cb0859da": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_483aca98989a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_58d959fbfb39": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          }
+        ],
+        "defaultLocation": "ID_b85bf89b29f8"
+      },
+      "current": {
+        "day": 3,
+        "month": 2,
+        "year": 1322
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_f958694959c8",
   "eventPreview": false,
   "exit": {
     "saving": false,
