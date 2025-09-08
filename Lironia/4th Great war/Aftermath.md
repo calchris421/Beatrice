@@ -1,2 +1,3 @@
 Servona government is established as the official Valienta government
-Alliance forces Est
+Alliance forces establish a Drastvan government with its new Chancellor being an Isenholm puppet
+Furstalen becomes a vassal of Al-Katar 
