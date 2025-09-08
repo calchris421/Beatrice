@@ -7,18 +7,18 @@
 1218 Last Seed 30th - Valienta join Drastvan in the conflict.
 1218 Resting moon 7th - Servona  secedes from Valienta due to its relationship with Nifan and returns to a city state.
 1218 Frost Fall 17th - After months of deadlock a cold front forces Valienta forces to retreat
-1218 Sun's Set 27th - Drastan, Valienta Forces reach Brunaie
+1218 Sun's Set 27th - Drastvan, Valienta Forces reach Brunaie
 1218 Dusk's Rise 11th - The Isenholm embassy is destroyed and an Ambassador is killed during the siege of Brunaie
 1218 Dusk's Rise 24th - Drastvan forces push further into eastern land in an attempt to encircle Al-Katar (little resistance is met)
 1219 Early Star 5th - Isenholm officially joins the conflict
-1219 Early Star 7th - A miscommunication in orders result in eastern Drastvan forces invaiding and opening fire on Ruso civilians
+1219 Early Star 7th - A miscommunication in orders result in eastern Drastvan forces invading and opening fire on Ruso civilians
 1219 Early Star 8th - Ruso retaliation begins and Drastvan forces are pushed back
 1219 Early Star 23rd - Lysund joins the conflict through a protection pact with Isenholm.
 1219 Mornings Dew 9th - Drastvan successfully take Valmaie
 1219 Mornings Dew 17th - Ruso forces reach the crimson sea and begin push into Pracoviche
 1219 Mornings Dew 21st - Al-Katar take Furstalen 
 1219 First Seed 9th - Isenholm perform a retaliatory attack using Cold Acre Grand Wizards and gain a foothold in the mainland.
-1219 First Seed 22nd - Ruso forces are slowed down when occupied nations learn they dont intend to leave 
+1219 First Seed 22nd - Ruso forces are slowed down when occupied nations learn they don't intend to leave 
 1219 Elan's Hand 13th - Isenholm, Lysund forces take Saint Michelle and free several prisoned paladins.
 1219 Second Seed 2nd- Isenholm, Lysund, Saint Michelle forces reach Brunaie and successfully free the Valmaie President. The three nations form what comes to be known as "The Alliance"
 1219 Sol's Peak 5th - The Alliance fully take Valmaie from Drastvan control and begin to push east
@@ -39,3 +39,4 @@
 1220 Elan's Hand 1st - Drastvan Chancellor responds with with an absolute refusal.
 1220 Elan's Hand 2nd - Drastvan forces fire on Alliance troops outside the city early into the morning
 1220 Elan's Hand 2nd - Alliance wizards strike wiping out the majority of the city 
+1220 Elan's Hand 2nd - Alliance forces reach the Chancellor's office to find him dead with his throat slit
