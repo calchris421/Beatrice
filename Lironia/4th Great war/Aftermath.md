@@ -4,3 +4,5 @@ Furstalen becomes a vassal of Al-Katar
 The crimson gate is handed to Al-Katar
 Sturfalen remains under Valmaie rule as reparations
 Old Drastvan government is tried at Sturfalen and most are sentenced to death
+Ruso fail to hold Pracoviche and retreat back over the Crimson Sea
+Ruso change their name to the United Ruso Republic
