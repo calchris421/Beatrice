@@ -26,7 +26,7 @@
 1219 Sol's Peak 31st - Nifan reinforces Servona
 1219 Resting Moon 7th - The Alliance take Sturfalen
 1219 Resting Moon 15th - Lysund begin to push into Drastvan from the north
-1219 Hearthfire 10th - Servona forces take soldaria and over throw its government 
+1219 Hearthfire 10th - Servona forces take Soldaria and over throw its government 
 1219 Hearthfire 21st - Orders for Valienta forces to return home reaches the front lines most decide to remain and fight.
 1219 Frost Fall 9th - The newly established Valienta government join The Alliance
 1219 Frost Fall 18th - Alliance forces surround Strasheim and its forces surrender on threat of being wiped out.
@@ -37,5 +37,5 @@
 1220 First Seed 10th - Durkstin forces are scheduled to collide with Alliance forces the next day but a Cold Acre Wizard wipes out the army and nearby area with a meteor swarm none survive
 1220 First Seed 27th - Alliance forces reach Kristengrad and send their request for unconditional surrender.
 1220 Elan's Hand 1st - Drastvan Chancellor responds with with an absolute refusal.
-1220 Elan's Hand 2nd Drastvan forces fire on Alliance troops outside the city early into the morning
-1220 Elan's Hand╬
+1220 Elan's Hand 2nd - Drastvan forces fire on Alliance troops outside the city early into the morning
+1220 Elan's Hand 2nd - Alliance wizards strike wiping out the majority of the city 
