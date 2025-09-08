@@ -40,4 +40,4 @@
 1220 Elan's Hand 2nd - Drastvan forces fire on Alliance troops outside the city early into the morning
 1220 Elan's Hand 2nd - Alliance wizards strike wiping out the majority of the city 
 1220 Elan's Hand 2nd - Alliance forces reach the Chancellor's office to find him dead with his throat slit
-1220 Elan's Hand 2nd - 
+1220 Elan's Hand 2nd - As the central clocktower strikes 12p.m the 4th Great War is declared officially over
