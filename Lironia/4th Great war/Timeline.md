@@ -36,5 +36,6 @@
 1220 First Seed 2nd - Durkstin forces split into heading towards Kristengrad and ambushing Alliance forces on the road
 1220 First Seed 10th - Durkstin forces are scheduled to collide with Alliance forces the next day but a Cold Acre Wizard wipes out the army and nearby area with a meteor swarm none survive
 1220 First Seed 27th - Alliance forces reach Kristengrad and send their request for unconditional surrender.
-1220 Elan's hand 1st - Drastvan Chancellor responds with with an absolute refusal.
-1220 Elan's hand 2nd Drastvan forces fire on Alliance troops outside the city early into the morning
+1220 Elan's Hand 1st - Drastvan Chancellor responds with with an absolute refusal.
+1220 Elan's Hand 2nd Drastvan forces fire on Alliance troops outside the city early into the morning
+1220 Elan's Hand╬
