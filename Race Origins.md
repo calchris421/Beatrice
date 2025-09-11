@@ -6,4 +6,4 @@ Halfling (Offset by humans)
 Human (Offset by Bloodoaths)
 Orc's (Far south east)
 Tiefling (South west)
-Giant
+Giants(Offset by Bloodoaths)
