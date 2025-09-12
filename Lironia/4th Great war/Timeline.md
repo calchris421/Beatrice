@@ -12,7 +12,7 @@
 
 1218 Last Seed 30th - Valienta join Drastvan in the conflict.
 
-1218 Resting moon 7th - Servona  secedes from Valienta due to its relationship with Nifan and returns to a city state.
+1218 Resting moon 7th - Servona secedes from Valienta due to its relationship with Nifan and returns to a city state.
 
 1218 Frost Fall 17th - After months of deadlock a cold front forces Valienta forces to retreat
 

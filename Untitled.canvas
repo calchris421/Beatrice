@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1aa1672468a28f29","type":"file","file":"World/Lironia.png","x":3480,"y":-480,"width":1240,"height":698}
+		{"id":"1aa1672468a28f29","type":"file","file":"World/Lironia.png","x":3880,"y":-380,"width":1240,"height":698}
 	],
 	"edges":[]
 }
