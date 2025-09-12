@@ -42,7 +42,7 @@
 
 1219 Elan's Hand 13th - Isenholm, Lysund forces take Saint Michelle and free several prisoned paladins.
 
-1219 Second Seed 2nd- Isenholm, Lysund, Saint Michelle forces reach Brunaie and successfully free the Valmaie President. The three nations form what comes to be known as "The Alliance"
+1219 Second Seed 2nd - Isenholm, Lysund, Saint Michelle forces reach Brunaie and successfully free the Valmaie President. The three nations form what comes to be known as "The Alliance"
 
 1219 Sol's Peak 5th - The Alliance fully take Valmaie from Drastvan control and begin to push east
 
