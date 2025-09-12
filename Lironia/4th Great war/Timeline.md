@@ -63,13 +63,23 @@
 1219 Frost Fall 18th - Alliance forces surround Strasheim and its forces surrender on threat of being wiped out.
 
 1219 Sun's Set 17th - Ruso take Pracoviche and halt their advance to keep their newly taken land
+
 1219 Dusk's Rise 19th - Alliance forces get ambushed by Durkstin troops and cause significant casualties and retreat back to Strasheim 
+
 1220 Mornings Dew 12th - A reinforced Alliance march towards Kristengrad
+
 1220 First Seed 2nd - Durkstin forces split into heading towards Kristengrad and ambushing Alliance forces on the road
+
 1220 First Seed 10th - Durkstin forces are scheduled to collide with Alliance forces the next day but a Cold Acre Wizard wipes out the army and nearby area with a meteor swarm none survive
+
 1220 First Seed 27th - Alliance forces reach Kristengrad and send their request for unconditional surrender.
+
 1220 Elan's Hand 1st - Drastvan Chancellor responds with with an absolute refusal.
+
 1220 Elan's Hand 2nd - Drastvan forces fire on Alliance troops outside the city early into the morning
-1220 Elan's Hand 2nd - Alliance wizards strike wiping out the majority of the city 
+
+1220 Elan's Hand 2nd - Alliance wizards strike wiping out the majority of the city
+
 1220 Elan's Hand 2nd - Alliance forces reach the Chancellor's office to find him dead with his throat slit
+
 1220 Elan's Hand 2nd - As the central clocktower strikes 12p.m the 4th Great War is declared officially over
