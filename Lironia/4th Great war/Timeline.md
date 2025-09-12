@@ -68,7 +68,7 @@
 
 1220 Mornings Dew 12th - A reinforced Alliance march towards Kristengrad
 
-1220 First Seed 2nd - Durkstin forces split into heading towards Kristengrad and ambushing Alliance forces on the road
+1220 First Seed 2nd - Durkstin forces split in two heading towards Kristengrad and ambushing Alliance forces on the road
 
 1220 First Seed 10th - Durkstin forces are scheduled to collide with Alliance forces the next day but a Cold Acre Wizard wipes out the army and nearby area with a meteor swarm none survive
 
